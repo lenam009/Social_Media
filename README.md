@@ -1,6 +1,6 @@
 ### Link Demo: https://www.youtube.com/watch?v=X3IwXXVhuxI
 
-### Link Backend : https://github.com/lenam009/facebook_clone/tree/facebook_express
+### Link Backend : https://github.com/lenam009/Social_Media/tree/facebook_express
 
 ### Công nghệ sử dụng: typescript, nextAuth, redux
 

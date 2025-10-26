@@ -1,6 +1,6 @@
 ### Link Demo: https://www.youtube.com/watch?v=X3IwXXVhuxI
 
-### Công nghệ sử dụng: typescript, nextAuth, redux, next 14 appRouter
+### Công nghệ sử dụng: typescript, nextAuth, redux
 
 ### UI: Antd, Mui
 
